@@ -41,6 +41,7 @@
         "bootstrap": "^4.4.1"
     },
     "devDependencies": {
+        "ws": ">=6.2.2"
         "autoprefixer": "9.7.6",
         "browser-sync": "^2.26.7",
         "chokidar": "3.3.1",
