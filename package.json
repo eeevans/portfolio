@@ -42,7 +42,7 @@
     },
     "devDependencies": {
         "ws": ">=6.2.2",
-        "socket.io-parser": ">=3.3.2",
+        "socket.io-parser": ">=4.2.3",
         "autoprefixer": "9.7.6",
         "browser-sync": "^2.26.7",
         "chokidar": "3.3.1",
